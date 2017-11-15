@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Group-Id: org.jenkins-ci.plugins
+Short-Name: jenkies
+Long-Name: TODO Plugin
+Url: https://wiki.jenkins-ci.org/display/JENKINS/TODO+Plugin
+Plugin-Version: 1.0-SNAPSHOT (private-11/08/2017 15:27-robert)
+Hudson-Version: 2.7.3
+Jenkins-Version: 2.7.3
+Plugin-Dependencies: junit:1.15,structs:1.7
+Plugin-Developers: 
+Libraries: /home/mel/cs498/final/jenkies/src/main/resources,/home/mel/
+ cs498/final/jenkies/target/classes
+Resource-Path: /home/mel/cs498/final/jenkies/src/main/webapp
+

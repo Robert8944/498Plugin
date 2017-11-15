@@ -1,0 +1,7 @@
+org/jenkinsci/plugins/sample/HelloWorldBuilder.class
+org/jenkinsci/plugins/sample/HelloWorldBuilder/DescriptorImpl/doCheckName.stapler
+org/jenkinsci/plugins/sample/HelloWorldBuilder.stapler
+org/jenkinsci/plugins/sample/Messages.class
+META-INF/annotations/org.jenkinsci.Symbol
+org/jenkinsci/plugins/sample/HelloWorldBuilder$DescriptorImpl.class
+META-INF/annotations/hudson.Extension

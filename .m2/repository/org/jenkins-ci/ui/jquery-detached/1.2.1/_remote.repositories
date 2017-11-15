@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Oct 26 14:13:46 EDT 2017
+jquery-detached-1.2.1.jar>repo.jenkins-ci.org=
+jquery-detached-1.2.1-core-assets.jar>repo.jenkins-ci.org=
+jquery-detached-1.2.1.pom>repo.jenkins-ci.org=

@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Oct 26 14:07:00 EDT 2017
+maven-site-plugin-3.3.jar>repo.jenkins-ci.org=
+maven-site-plugin-3.3.pom>repo.jenkins-ci.org=

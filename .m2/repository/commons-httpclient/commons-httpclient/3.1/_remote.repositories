@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Oct 26 14:12:52 EDT 2017
+commons-httpclient-3.1.jar>repo.jenkins-ci.org=
+commons-httpclient-3.1.pom>repo.jenkins-ci.org=

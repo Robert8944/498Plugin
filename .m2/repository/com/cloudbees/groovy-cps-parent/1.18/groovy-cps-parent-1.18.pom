@@ -1,0 +1,41 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.cloudbees</groupId>
+        <artifactId>cloudbees-oss-parent</artifactId>
+        <version>7</version>
+        <relativePath />
+    </parent>
+
+    <artifactId>groovy-cps-parent</artifactId>
+    <version>1.18</version>
+    <packaging>pom</packaging>
+
+    <name>Groovy CPS Execution Parent</name>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <groovy.version>2.4.7</groovy.version>
+    </properties>
+
+    <scm>
+        <connection>scm:git:git@github.com/cloudbees/groovy-cps.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/cloudbees/groovy-cps.git</developerConnection>
+        <tag>groovy-cps-parent-1.18</tag>
+    </scm>
+
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <modules>
+        <module>dgm-builder</module>
+        <module>lib</module>
+    </modules>
+
+</project>
