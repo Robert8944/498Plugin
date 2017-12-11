@@ -1,5 +1,11 @@
 # 498Plugin
 
+Where the system begins: 
+Code structure:
+Compiling: 
+Running:
+
+Project Overview:
 Make Jenkins produce finer grained messages, not just "build passed" or "build failed". 
 Currently, when there is a build failure, the only output from Jenkins is a message that says, 
   "Build Passed" or "Build Failed". 
