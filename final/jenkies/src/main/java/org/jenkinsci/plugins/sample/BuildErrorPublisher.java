@@ -43,8 +43,6 @@ import java.io.File;
 
 public class BuildErrorPublisher extends Recorder {
 
-    private final String errorDatabase;
-
     @Override
     public BuildStepMonitor getRequiredMonitorService(){
         return BuildStepMonitor.NONE;
@@ -52,7 +50,6 @@ public class BuildErrorPublisher extends Recorder {
 
     @DataBoundConstructor
     public BuildErrorPublisher() {
-        this.errorDatabase = "hey";
     }
 
     public String arrayToString(Object[] a){
